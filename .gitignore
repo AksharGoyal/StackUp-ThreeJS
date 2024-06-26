@@ -1,5 +1,0 @@
-# Local Netlify folder
-.netlify
-.firebase
-dist
-node_modules
